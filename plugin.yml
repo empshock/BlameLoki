@@ -1,0 +1,7 @@
+name: BlameLoki
+main: net.empshock.blameloki.Main
+version: 1.0.0
+description: Blame loki, he's an faggot.
+commands:
+  loki:
+    description: Blame loki!
